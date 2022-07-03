@@ -1,0 +1,195 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+background-color: #fbb11a;
+}
+
+
+ul,li{
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+h1,h2,h3,h4,h5{
+	font-weight: 700;
+	color: #000;
+
+}
+
+h2{
+	text-align: center;
+}
+
+h3{
+	font-weight: 700;
+
+}
+
+h4{
+	font-size: 16px;
+	color: grey;
+}
+
+p,div,a,span{
+	line-height: 1.3em;
+}
+
+.header{
+	background-color: #FFC040;
+	padding-top: 20px;
+}
+
+.menu{
+
+}
+
+.menu_item{
+	margin: 20px;
+	margin-top: 15px;
+}
+
+.menu_item a{
+		font-size: 18px;
+	font-weight: 700;
+	color: #000;
+}
+
+
+.description{
+margin-top: 100px;
+
+}
+
+.description_title{
+	text-align: center;
+	font-size: 32px;
+	margin-bottom: 6px;
+}
+
+.description_intro{
+	font-size: 20px;
+}
+
+.description_img{
+	text-align: center;
+}
+
+.icons_item{
+color: #000;
+font-size: 50px;
+}
+
+.advantages{
+	background-color: white;
+	padding-bottom: 20px;
+
+}
+
+
+.footer{
+	background-color: black
+}
+
+.feature_icon{
+	font-size: 40px;
+	padding-right: 10px;
+}
+
+.feature_title{
+
+}
+
+.feature{
+	padding-top: 30px;
+}
+
+.contacts_title{
+	text-align: center;
+	color: #FFC040;
+}
+
+.contact{
+	background-color: black;
+}
+
+.contacts_item{
+	color: #FFC040;
+	padding-left: 50px;
+}
+
+.link_icon{
+	color: #FFC040;
+	font-size: 40px;
+}
+
+.links_link{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
+
+.ending{
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.partner{
+	text-align: center;
+	padding-top: 5px;
+}
+
+.partners{
+	padding-top: 20px;
+}
+
+.partner_title{
+	padding-top: 25px;
+}
+
+
+.description1{
+margin-top: 100px;
+margin-bottom: 30px;
+}
+
+.description_intro1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.sotr{
+background-color: white;
+}
+
+
+.sotr_title{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.sotrudnik{
+	text-align: center;
+}
+
+.description2{
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+.reviews{
+	background-color: white;
+	padding-bottom: 20px;
+}
+.review{
+	text-align: center;
+	margin-top: 20px;
+    outline: 2px solid #000; /* Чёрная рамка */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+
+}
+
+.review_item{
+	margin-top: 10px;
+}
